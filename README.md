@@ -8,7 +8,9 @@ Flare_cleaning_and_video.ipynb
 Contains code for cleaning observations and creating videos.
 
 Kmeans_Main.ipynb
+
 All analysis methods used in the master thesis.
+
 
 som.py
 Code from Brandon Panos to create a self-organizing map (SOM) to solve the traveling salesman problem.
